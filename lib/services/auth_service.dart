@@ -34,7 +34,10 @@ class AuthService {
         (name, value) =>
             MapEntry(name, _Credential.fromJson(value as Map<String, dynamic>)),
       );
-    } on FormatException {
+    } catch (_) {
+      // Corrupt or incompatible (e.g. pre-hashing plaintext) stored data:
+      // discard it rather than crashing on startup.
+      _users = {};
       await preferences.remove(_storageKey);
     }
   }
