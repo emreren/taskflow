@@ -1,0 +1,1 @@
+Local-first, offline task manager with profiles and custom groups.

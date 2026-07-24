@@ -1,0 +1,12 @@
+TaskFlow is a lightweight, local-first task manager. All data stays on your
+device: there is no network access, no analytics, and no advertising.
+
+Features:
+
+* Multiple local profiles, each with its own password-protected task list.
+* Custom task groups with icons to organize your tasks.
+* Light and dark themes.
+* Fully offline: your tasks never leave your device.
+
+TaskFlow does not require an internet connection and does not collect or
+transmit any personal data.
