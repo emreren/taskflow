@@ -41,3 +41,9 @@ is persisted.
 
 TaskFlow is free software, licensed under the
 [GNU General Public License v3.0 or later](LICENSE).
+
+## Third-party assets
+
+The app icon is based on the "task_alt" symbol from
+[Google Material Symbols](https://github.com/google/material-design-icons),
+licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
