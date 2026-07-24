@@ -1,0 +1,2 @@
+Fixed a crash on startup caused by incompatible/corrupt stored login data.
+Added an app launcher icon.

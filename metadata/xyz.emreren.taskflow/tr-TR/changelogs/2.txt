@@ -1,0 +1,2 @@
+Başlangıçta bozuk/uyumsuz oturum verisinin neden olduğu çökme giderildi.
+Uygulama simgesi eklendi.
