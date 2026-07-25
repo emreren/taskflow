@@ -1,2 +1,0 @@
-İlk sürüm: profiller, özel gruplar ve açık/koyu tema içeren yerel görev
-yöneticisi.

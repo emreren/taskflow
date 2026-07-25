@@ -1,2 +1,0 @@
-First public release: local-first task manager with profiles, custom
-groups, and light/dark theme.
